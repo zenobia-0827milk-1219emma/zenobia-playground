@@ -3,24 +3,20 @@
         width: 50%;
     }
 
+    .top{
+        bottom: 20;
+        right: 20;
+    }
+
     .top-btn{
         max-width: 75px;
         max-height: 75px;
         opacity: 1.0;
     }
-
-    aside{
-       margin-top: 65px; 
-    }
     
     main{
-        margin-top: 65px;
         padding-top: 25px;
         padding-bottom: 25px;
-    }
-
-    .title{
-        margin-bottom: -25px;
     }
 
     .home{
