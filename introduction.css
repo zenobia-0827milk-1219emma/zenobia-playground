@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    max-width: 2000px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(105,144,39);/*カラーコード#699027*/
+}
+
+.logo-btn{
+    display: inline-block;
+    width: 35%;
+}
+
+.logo-img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.top{
+    position: fixed;
+    z-index: 10;
+    bottom: 10;
+    right: 10;
+    clip-path: circle(50%);
+}
+
+.top-btn{
+    width: 100%;
+    height: 100%;
+    max-width: 100px;
+    max-height: 100px;
+    opacity: 0.5;
+}
+
+.top-btn:hover{
+    opacity: 1.0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+aside{
+    margin-top: 100px;
+    width: 20%;
+    background-color: white;
+}
+
+main{
+    margin-top: 100px;
+    width: 80%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:rgb(240,217,178);/* カラーコード#f0d9b2*/
+}
+
+.tag{
+    display: none;
+}
+
+.home{
+    display: inline-block;
+    margin-top: -30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    color: black;
+    text-decoration-line: none;
+}
+
+.border{
+    width: 95%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 25px;
+    border: 3px solid pink;
+}
+
+.fa-clock{
+    margin-right: 5px;
+}
+
+.fa-arrows-rotate{
+    margin-right: 5px;
+    margin-left: 15px;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    padding: 20px;
+    background-color: rgb(90,38,1);/*カラーコード#5a2610*/
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer-btn{
+    color: white;
+}
