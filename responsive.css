@@ -1,8 +1,4 @@
 @media(max-width:1000px){
-    .logo{
-        height: 65px;
-    }
-
     .logo-btn{
         width: 50%;
     }
@@ -37,8 +33,3 @@
     .article-list{
         font-size: 15px;
     }
-    
-    footer{
-       height: 65px;
-    }
-}
