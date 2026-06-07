@@ -20,7 +20,7 @@
     .title{
         font-size: 25px;
     }
-    
+
     .home{
         margin-top: -5px;
         font-size: 30px;
@@ -32,12 +32,13 @@
 
     .date{
         font-size: 30px;
+    }
 
     .text{
         font-size: 30px;
     }
-
+    
     .footer-btn{
-        font-size: 30px;
+       font-size: 30px;
     }
 }
