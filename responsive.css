@@ -19,11 +19,39 @@
         padding-bottom: 25px;
     }
 
+    .introduction-head{
+        font-size: 40px;
+    }
+
     .name{
-        font-size: 40px
+        font-size: 40px;
     }
 
     .text{
-        font-size: 30px
+        font-size: 30px;
+    }
+    
+    .article-head{
+        font-size: 40px;
+    }
+    
+    .article-list{
+        font-size: 20px;
+    }
+    
+    .more-btn{
+        font-size: 20px;
+    }
+
+    .link-head{
+        font-size: 40px;
+    }
+
+    .links a{
+        font-size: 30px;
+    }
+
+    footer a{
+        font-size: 30px;
     }
 }
