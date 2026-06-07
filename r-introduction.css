@@ -1,8 +1,4 @@
 @media(max-width:1000px){
-    .logo{
-        height: 65px;
-    }
-
     .logo-btn{
         width: 50%;
     }
@@ -29,9 +25,5 @@
 
     .home{
         margin-top: -5px;
-    }
-    
-    footer{
-       height: 65px;
     }
 }
