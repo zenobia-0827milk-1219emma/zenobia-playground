@@ -1,0 +1,44 @@
+@media(max-width:1000px){
+    .logo{
+        height: 65px;
+    }
+
+    .logo-btn{
+        width: 50%;
+    }
+    
+    .background{
+        padding-top: 65px;
+    }
+
+    .top-btn{
+        max-width: 75px;
+        max-height: 75px;
+        opacity: 1.0;
+    }
+    
+    main{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    
+    .icon{
+        width:75px
+    }
+
+    .name{
+        font-size: 18px;
+    }
+    
+    .text{
+        font-size: 10px;
+    }
+
+    .article-list{
+        font-size: 15px;
+    }
+    
+    footer{
+       height: 65px;
+    }
+}
