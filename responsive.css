@@ -50,13 +50,11 @@
     }
 
     .archive-list ul{
-        padding-left: -5px;
-        padding-right: -5px;
+       padding-inline-start: 0px;
     }
 
     .tag-list ul{
-        padding-left: -5px;
-        padding-right: -5px;
+        padding-inline-start: 0px;
     }
 
     .footer-btn{
