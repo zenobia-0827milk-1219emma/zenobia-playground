@@ -37,14 +37,6 @@
     .text{
         font-size: 30px;
     }
-
-    .archive-list ul{
-       padding-inline-start: 0px;
-    }
-
-    .tag-list ul{
-        padding-inline-start: 0px;
-    }
     
     .footer-btn{
        font-size: 30px;
