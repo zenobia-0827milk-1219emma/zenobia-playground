@@ -123,8 +123,10 @@ main{
     text-align: center;
 }
 
-.archive-list li{
+.archive-list ul{
     list-style: none;
+    padding-inline-start: 0px;
+    text-align: center;
 }
 
 .tags{
@@ -141,8 +143,10 @@ main{
     text-align: center;
 }
 
-.tag-list li{
+.tag-list ul{
     list-style: none;
+    padding-inline-start: 0px;
+    text-align: center;
 }
 
 .list-btn{
