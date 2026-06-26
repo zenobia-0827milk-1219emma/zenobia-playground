@@ -77,10 +77,6 @@ main{
     background-color:rgb(240,217,178);/* カラーコード#f0d9b2*/
 }
 
-.tag{
-    display: none;
-}
-
 .home{
     display: inline-block;
     margin-top: -30px;
@@ -112,6 +108,45 @@ main{
 .text img{
     max-width: 100%;
     height: auto;
+}
+
+.archive{
+    width: 95%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 25px;
+    border: 3px solid pink;
+    margin-top: 30px;
+}
+
+.archive-head{
+    text-align: center;
+}
+
+.archive-list li{
+    list-style: none;
+}
+
+.tag{
+    width: 95%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 25px;
+    border: 3px solid pink;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.tag-head{
+    text-align: center;
+}
+
+.tag-list li{
+    list-style: none;
+}
+
+.list-btn{
+    text-decoration-line: none;
 }
 
 footer{
