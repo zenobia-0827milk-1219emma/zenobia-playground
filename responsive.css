@@ -49,6 +49,10 @@
         font-size: 30px;
     }
 
+    .article-list{
+        padding: -10px;
+    }
+
     .footer-btn{
         font-size: 30px;
     }
