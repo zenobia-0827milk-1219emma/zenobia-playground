@@ -96,6 +96,10 @@ main{
     border: 3px solid pink;
 }
 
+.tag a{
+    text-decoration-line: none;
+}
+
 .fa-clock{
     margin-right: 5px;
 }
